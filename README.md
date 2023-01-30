@@ -47,10 +47,10 @@ git clone https://github.com/andretakeo/JwtAuthentication.git
 
 Create a .env file and add the following environment variables:
 
-SECRET_KEY=secret_key
-DATABASE_USER=user
-DATABASE_PASSWORD=password
-DATABASE_HOST=host
+- SECRET_KEY=secret_key
+- DATABASE_USER=user
+- DATABASE_PASSWORD=password
+- DATABASE_HOST=host
 
 # Secret Key
 
